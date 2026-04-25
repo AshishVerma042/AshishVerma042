@@ -10,9 +10,6 @@
 I am a passionate Flutter developer focused on building **real-world mobile applications**.
 I enjoy solving problems, creating clean UI, and developing scalable apps.
 
-Currently working on:
-👉 **BHK Employee App** – A platform to empower artisans digitally
-
 ---
 
 ## 🛠️ Tech Stack
