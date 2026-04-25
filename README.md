@@ -42,16 +42,6 @@ https://github.com/AshishVerma042
 
 ---
 
-## 🖼️ App Preview
-
-<p align="center">
-  <img src="App%20Screenshots/Login%20%26%20SignUp.jpeg" width="250"/>
-  <img src="App%20Screenshots/Home%20Screen.jpeg" width="250"/>
-  <img src="App%20Screenshots/Profile.jpeg" width="250"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -72,8 +62,8 @@ https://github.com/AshishVerma042
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* 💼 LinkedIn: your-linkedin-link
+* 📧 Email: [your-email@gmail.com](mailto:aashishverma042@gmail.com.com)
+* 💼 LinkedIn: [your-email@gmail.com](mailto:www.linkedin.com/in/aashish042)
 
 ---
 
