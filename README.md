@@ -21,6 +21,44 @@ I enjoy solving problems, creating clean UI, and developing scalable apps.
   <img src="https://img.shields.io/badge/REST%20API-Integration-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-Basic-orange?style=for-the-badge"/>
 </p>
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p>
+  <img src="https://img.shields.io/badge/Programming-General-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Programming%20Languages-Java%20%7C%20Dart-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-Concepts-green?style=for-the-badge"/>
+</p>
+
+---
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>
+
+---
+
+### 🔥 Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Databases-SQL%20%7C%20NoSQL-blue?style=for-the-badge"/>
+</p>
+
+---
+
+### 🎨 Design & Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software-Design%20Concepts-yellow?style=for-the-badge"/>
+</p>
+
 
 ---
 
