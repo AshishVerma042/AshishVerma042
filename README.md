@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashish Verma
 
-<!--
-**AshishVerma042/AshishVerma042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Developer | Mobile App Developer**
+📍 India | 💼 Open to Work
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I am a passionate Flutter developer focused on building **real-world mobile applications**.
+I enjoy solving problems, creating clean UI, and developing scalable apps.
+
+Currently working on:
+👉 **BHK Employee App** – A platform to empower artisans digitally
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-State%20Management-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-Integration-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-Basic-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 📱 Featured Project
+
+### 🏺 BHK Employee App
+
+A mobile platform designed for artisans to manage employees, showcase products, and collaborate with other artisans.
+
+### 🔑 Features
+
+* 👥 Employee Management
+* 🛍️ Product Listing & Management
+* 📦 Order Flow System
+* 🔗 Artisan Collaboration
+
+👉 **Project Link:**
+https://github.com/AshishVerma042
+
+---
+
+## 🖼️ App Preview
+
+<p align="center">
+  <img src="App%20Screenshots/Login%20%26%20SignUp.jpeg" width="250"/>
+  <img src="App%20Screenshots/Home%20Screen.jpeg" width="250"/>
+  <img src="App%20Screenshots/Profile.jpeg" width="250"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishVerma042&show_icons=true&theme=default"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishVerma042"/>
+</p>
+
+---
+
+## 🎯 Goals
+
+* Build scalable Flutter apps
+* Work on real-world impactful projects
+* Contribute to open source
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 💼 LinkedIn: your-linkedin-link
+
+---
+
+⭐ *Actively looking for job and freelance opportunities* 🚀
