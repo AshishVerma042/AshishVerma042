@@ -76,7 +76,7 @@ A mobile platform designed for artisans to manage employees, showcase products, 
 * 🔗 Artisan Collaboration
 
 👉 **Project Link:**
-https://github.com/AshishVerma042/BHK-Employee-app-Real-World-
+https://github.com/AshishVerma042/BHK-Employee-app
 
 ---
 
