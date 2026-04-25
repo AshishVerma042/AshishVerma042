@@ -14,50 +14,50 @@ I enjoy solving problems, creating clean UI, and developing scalable apps.
 
 ## 🛠️ Tech Stack
 
-<p>
+### 📱 Mobile Development
+
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/GetX-State%20Management-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-Integration-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-Basic-orange?style=for-the-badge"/>
-</p>
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Programming-General-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Programming%20Languages-Java%20%7C%20Dart-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-Concepts-green?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📱 Mobile Development
+### 🔥 Backend & APIs
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-Integration-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase"/>
+</p>
+
+---
+
+### 💻 Programming & Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Programming-red?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Programming-General-lightgrey?style=for-the-badge"/>
+</p>
+
+---
+
+### 📱 Android Development
+
+<p align="center">
   <img src="https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
 ---
 
-### 🔥 Backend & Database
+### 🎨 Design
 
-<p>
-  <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Databases-SQL%20%7C%20NoSQL-blue?style=for-the-badge"/>
-</p>
-
----
-
-### 🎨 Design & Concepts
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software-Design%20Concepts-yellow?style=for-the-badge"/>
 </p>
+
 
 
 ---
