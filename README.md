@@ -85,7 +85,7 @@ https://github.com/AshishVerma042
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshishVerma042&show_icons=true&theme=default"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishVerma042"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishVerma042/BHK-Employee-app-Real-World-"/>
 </p>
 
 ---
